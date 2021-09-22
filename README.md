@@ -30,7 +30,11 @@ Full Stack Web Developer.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   4 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   32.32 % 
+CSS          4 hrs           ███████▓░░░░░░░░░░░░░░░░░   30.71 % 
+HTML         3 hrs 1 min     █████▓░░░░░░░░░░░░░░░░░░░   23.26 % 
+Markdown     1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+YAML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 <!--END_SECTION:waka-->
 

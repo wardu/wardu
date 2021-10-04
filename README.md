@@ -1,7 +1,5 @@
 ## Hi I'm Warren <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-aussie.gif" width="34px" alt="hi">
 
-Full Stack Web Developer.
-
 [![Mail Badge](https://img.shields.io/badge/-@wardu-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/wardu77)
 [![Twitter Badge](https://img.shields.io/badge/-@WarrenDubery-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WarrenDubery)](https://twitter.com/WarrenDubery)
 [![Mail Badge](https://img.shields.io/badge/-wardu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:wardu77@protonmail.com)

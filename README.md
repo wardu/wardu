@@ -28,8 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   28 mins         ██████████████████▒░░░░░░   73.50 % 
-Bash       9 mins          ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

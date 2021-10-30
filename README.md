@@ -28,9 +28,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     7 mins          ██████████▒░░░░░░░░░░░░░░   41.65 % 
-JavaScript   5 mins          ████████░░░░░░░░░░░░░░░░░   31.83 % 
-Solidity     4 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.53 % 
+Solidity     55 mins         ████████████████████░░░░░   80.36 % 
+Markdown     7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+JavaScript   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -26,8 +26,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Solidity     2 hrs 31 mins   ████████████████████████░   96.07 % 
-JavaScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Solidity   1 hr 16 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

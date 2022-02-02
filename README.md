@@ -1,10 +1,13 @@
 ## Hi, I'm Warren
 
-[![Twitter Badge](https://img.shields.io/badge/-@WarrenDubery-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WarrenDubery)](https://twitter.com/WarrenDubery)
-
 - I am looking for ways to contribute to the development of Web 3.0
 - Based in London
 - Open to collaborations
+
+
+You can reach out to me here:
+[![Twitter Badge](https://img.shields.io/badge/-@WarrenDubery-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WarrenDubery)](https://twitter.com/WarrenDubery)
+
 
 #### Main Technologies:
 

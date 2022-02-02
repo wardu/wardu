@@ -1,6 +1,6 @@
 ## Hi, I'm Warren
 
-- I am looking for ways to contribute to the development of Web 3.0
+- Smart Contract developer looking for ways to contribute to the development of Web 3.0
 - Based in London
 - Open to collaborations
 

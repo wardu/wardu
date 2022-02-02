@@ -1,12 +1,10 @@
 ## Hi, I'm Warren
 
-[![Mail Badge](https://img.shields.io/badge/-@wardu-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/wardu77)
 [![Twitter Badge](https://img.shields.io/badge/-@WarrenDubery-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WarrenDubery)](https://twitter.com/WarrenDubery)
-[![Mail Badge](https://img.shields.io/badge/-wardu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:wardu77@protonmail.com)
 
-- :bridge_at_night: I'm based in London, :gb:
-- :milky_way: I studied Physics at University
-- :tv: I am inspired by Web 3.0
+- I am looking for ways to contribute to the development of Web 3.0
+- Based in London
+- Open to collaborations
 
 #### Main Technologies:
 

@@ -1,9 +1,9 @@
-## Hi, I'm Warren
 
-- Smart Contract developer looking for ways to contribute to the development of Web 3.0
-- Based in London
-- Open to collaborations
 
+I'm currently developing my skill as a Smart Contract engineer. \
+I'm looking for ways to contribute to the development of Web 3.0. \
+Based in London - open to collaborations.
+<br>
 
 You can reach out to me here:
 [![Twitter Badge](https://img.shields.io/badge/-@WarrenDubery-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WarrenDubery)](https://twitter.com/WarrenDubery)

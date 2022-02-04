@@ -1,6 +1,6 @@
 
 
-I'm currently developing my skill as a Smart Contract engineer. \
+I'm currently developing my skills as a Smart Contract engineer. \
 I'm looking for ways to contribute to the development of Web 3.0. \
 Based in London - open to collaborations.
 <br>

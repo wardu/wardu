@@ -1,7 +1,7 @@
 
 
-Improving everyday as a Smart Contract engineer. \
-I'm looking for ways to contribute to the development of Web 3.0. \
+Currently working on blockchain and smart contracts. \
+Looking for ways to contribute to the development of Web 3.0. \
 Based in London - open to collaborations.
 <br>
 

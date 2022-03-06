@@ -5,7 +5,7 @@ Looking for ways to contribute to the development of Web 3.0. \
 Based in London - open to collaborations.
 <br>
 
-You can reach out to me here:
+You can reach out to me here: <br>
 [![Twitter Badge](https://img.shields.io/badge/-@WarrenDubery-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WarrenDubery)](https://twitter.com/WarrenDubery)
 
 

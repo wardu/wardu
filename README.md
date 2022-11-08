@@ -11,6 +11,7 @@ Reach out to me on Twitter:
 [![Twitter Badge](https://img.shields.io/badge/-@_wardu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_wardu)](https://twitter.com/_wardu)
 
 <br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wardu&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 Connect on LinkedIn: 
 <br />

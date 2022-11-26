@@ -1,10 +1,8 @@
 
 
-Welcome to my profile.
-
-I am a full-stack engineer with a background in Physics & Topography.
-I have always been interested in the fundamentals of ‘how things work’.
-I am inspired by the rapid development of software and technology, and the leverage it can provide in solving problems and the levelling-up effect I believe is possible with the new web technologies.
+- full-stack engineer with a background in Physics & Topography.
+- inspired by the rapid development of software and technology, and the leverage it can provide in solving problems
+- belief that new web technologies can help level-up opportunities globally
 
 
 <br />

@@ -1,8 +1,5 @@
 
 
-- full-stack engineer with a background in Physics & Topography.
-- inspired by the rapid development of software and technology, and the leverage it can provide in solving problems
-- belief that new web technologies can help level-up opportunities globally
 
 
 <br />

@@ -1,10 +1,9 @@
 ```yaml
 name: Warren Dubery
 location: London, UK
-job: Software Engineer
 education: Bachelor's in Physics
 
-fields_of_interests: ["Cloud computing", "Low latency"]
+fields_of_interests: ["Cloud computing", "Low latency", "Python", "Markets"]
 technical_background: Quantum superdense coding
 currently_learning: ["Go", "Cloud Architecture", "Networking"]
 hobbies:

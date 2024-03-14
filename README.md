@@ -10,6 +10,7 @@ hobbies:
   [
     "Steak",
     "Spanish Language",
+    "Calisthenics"
   ]
 ```
 

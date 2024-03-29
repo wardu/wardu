@@ -11,10 +11,10 @@ education:
 
 fields_of_interests: ["Low latency", "Python", "Markets", "Performant Infrastructure"]
 
-currently_learning: ["C++", "Artificial Intelligence"]
+currently_learning: ["C", "Neural Networks", "Artificial Intelligence"]
 hobbies:
   [
-    "Steak",
+    "Kitchen gadgets, 
     "Spanish Language",
     "Calisthenics"
   ]

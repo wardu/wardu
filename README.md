@@ -4,7 +4,9 @@ location: London, UK
 education:
    [
      "BSc - Physics",
-     "MSc - Computer Science with AI"
+     "MSc - Computer Science with AI",
+
+     Location: "University of York"
    ]
 
 fields_of_interests: ["Low latency", "Python", "Markets", "Performant Infrastructure"]

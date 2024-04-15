@@ -9,7 +9,7 @@ education:
      Location: "University of York"
    ]
 
-fields_of_interests: ["Low latency", "Markets", "Performant Infrastructure", "Embedded Systems", "Robotics"]
+fields_of_interests: ["Markets", "Performant Infrastructure", "Prediction", "Game Theory"]
 
 currently_learning: ["C", "Neural Networks", "Artificial Intelligence"]
 hobbies:

@@ -11,7 +11,7 @@ education:
 
 fields_of_interests: ["Markets", "Performant Infrastructure", "Prediction", "Game Theory"]
 
-currently_learning: ["C", "Neural Networks", "Artificial Intelligence"]
+currently_learning: ["APL", "C", "Neural Networks", "Artificial Intelligence"]
 hobbies:
   [
     "Kitchen gadgets, 

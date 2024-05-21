@@ -9,9 +9,9 @@ education:
      school: "University of York"
    ]
 
-fields_of_interests: ["Markets", "Performant Infrastructure", "Prediction", "Game Theory"]
+fields_of_interests: ["Game Theory", "Performant Infrastructure", "Prediction Markets", "Bayes"]
 
-currently_learning: ["Java", "JavaFX", "TensorFlow", "Neural Networks", "Artificial Intelligence"]
+currently_learning: ["Java", "Algorithms", "Artificial Intelligence"]
 
 ```
 

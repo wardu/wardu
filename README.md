@@ -4,9 +4,7 @@ location: London, UK
 education:
    [
      "BSc - Physics",
-     "MSc - Computer Science with AI",
-
-     school: "University of York"
+     "MSc - Computer Science with AI"
    ]
 
 Deep Learning
